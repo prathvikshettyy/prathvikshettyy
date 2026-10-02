@@ -100,23 +100,7 @@ I focus on building systems that are:
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,gcp,postman,vercel&theme=dark"/>
 </p>
 
----
 
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning | Intermediate | Model development, preprocessing, evaluation |
-| Deep Learning | Intermediate | Neural networks, computer vision, model experimentation |
-| Computer Vision | Intermediate | Image preprocessing, segmentation, medical imaging |
-| Generative AI | Intermediate | LLM integration, context optimization, AI applications |
-| NLP | Intermediate | Text processing, semantic relevance, LLM workflows |
-| Data Science | Intermediate | Data analysis, visualization, feature engineering |
-| AI Research | Intermediate | Applied AI experimentation and evaluation |
-| Model Evaluation | Intermediate | Accuracy, Dice, SSIM, PSNR, RMSE/MSE |
-| AI Systems | Intermediate | AI-powered workflows and intelligent decision systems |
-
----
 
 ## Featured Projects
 
