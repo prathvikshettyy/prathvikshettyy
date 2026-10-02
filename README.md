@@ -30,15 +30,15 @@
 <a href="mailto:prathvikashetty@example.com">
 <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/prathamshetty18">
+<a href="https://github.com/prathvikshettyy">
 <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=prathamshetty18&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/prathamshetty18?style=flat-square&color=6366F1&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/prathamshetty18?style=flat-square&color=8B5CF6&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=prathvikshettyy&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/prathvikshettyy?style=flat-square&color=6366F1&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/prathvikshettyy?style=flat-square&color=8B5CF6&label=STARS"/>
 
 </div>
 
@@ -318,13 +318,13 @@ Participated in hackathons, technical competitions and innovation-focused events
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prathamshetty18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6366F1&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prathvikshettyy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6366F1&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamshetty18&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathvikshettyy&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD&langs_count=8"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=prathamshetty18&theme=transparent&hide_border=true&ring=8B5CF6&fire=6366F1&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8"/>
+<img src="https://streak-stats.demolab.com?user=prathvikshettyy&theme=transparent&hide_border=true&ring=8B5CF6&fire=6366F1&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8"/>
 
 </div>
 
@@ -344,7 +344,7 @@ Participated in hackathons, technical competitions and innovation-focused events
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamshetty18&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathvikshettyy&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
@@ -354,7 +354,7 @@ Participated in hackathons, technical competitions and innovation-focused events
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/prathamshetty18/prathamshetty18/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/prathvikshettyy/prathvikshettyy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
