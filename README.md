@@ -245,7 +245,7 @@ Participated in hackathons, technical competitions and innovation-focused events
 | Recognition | Details |
 |---|---|
 | **EY Techathon 6.0** | Cleared Executive Summary phase and advanced to Round 2 Detailed Presentation Submission |
-| **Hackathon Achievement** | Secured 2nd place in Content Creation at a 24-hour hackathon in Shivamogga |
+| **Content creation ** | Secured 2nd place in Content Creation at code Kudla by Avishkar AI |
 | **Hackathon Participation** | Participated in multiple technical hackathons and innovation events |
 | **Team Projects** | Built AI, healthcare, construction and disaster-management solutions |
 | **Technical Competitions** | Participated in VIT Vellore, Shimoga Hackathon, VCT and other technical events |
